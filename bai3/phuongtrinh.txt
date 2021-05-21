@@ -9,3 +9,4 @@ K + Cl_2 = KCl
 S + O_2 = SO_2
 SO_2  + O_2 = SO_3
 SO_3 + H_2O = H_2SO_4
+Na + H_2SO_4 = Na_2SO_4
